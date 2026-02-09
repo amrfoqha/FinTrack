@@ -4,9 +4,9 @@
 <p align="center"> A powerful web-based accounting system built with MERN Stack to manage invoices, customers, payments, and checks with full financial accuracy. </p>
 
 ## 🖼️ Screenshots
-|                     Dashboard                      |
-                       | :------------------------------------------------: |
-                       | <img src="screenshots/dashboard.png" width="550"/> |
+   |                     Dashboard                      |
+   | :------------------------------------------------: |
+   | <img src="screenshots/dashboard.png" width="550"/> |
 
 |                     Invoice                        |                   Customer Statement                 |
 | :----------------------------------------------:   |   :------------------------------------------------: |
