@@ -7,7 +7,7 @@
 
 |                     Dashboard                      |
 | :------------------------------------------------: |
-| <img src="screenshots/dashboard.png" width="250"/> |
+| <img src="screenshots/dashboard.png" width="550"/> |
 
 |                     Invoice                        |                   Customer Statement                 |
 | :----------------------------------------------:   |   :------------------------------------------------: |
