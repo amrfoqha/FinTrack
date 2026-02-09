@@ -8,11 +8,11 @@
 
 |                     Dashboard                      |                     Invoice                      |                 Customer Statement                 |
 | :------------------------------------------------: | :----------------------------------------------: | :------------------------------------------------: |
-| <img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/invoice.png" width="250"/> | <img src="screenshots/statement.png" width="250"/> |
+| <img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/invoice.png" width="300"/> | <img src="screenshots/statement.png" width="300"/> |
 
 |                     Payments                     |                     Checks                      |
 | :----------------------------------------------: | :---------------------------------------------: |
-| <img src="screenshots/payment.png" width="250"/> | <img src="screenshots/checks.png" width="250"/> |
+| <img src="screenshots/payment.png" width="300"/> | <img src="screenshots/checks.png" width="300"/> |
 
 ## 🚀 Features
 
