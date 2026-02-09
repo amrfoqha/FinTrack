@@ -5,9 +5,9 @@
 
 ## 🖼️ Screenshots
 
-                         |                     Dashboard                      |
-                         | :------------------------------------------------: |
-                         | <img src="screenshots/dashboard.png" width="550"/> |
+**                     |                     Dashboard                      |
+                       | :------------------------------------------------: |
+                       | <img src="screenshots/dashboard.png" width="550"/> |
 
 |                     Invoice                        |                   Customer Statement                 |
 | :----------------------------------------------:   |   :------------------------------------------------: |
