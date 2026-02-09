@@ -10,7 +10,13 @@ const customerLedgerSchema = new mongoose.Schema(
 
     type: {
       type: String,
-      enum: ["invoice", "payment", "check_return", "check_cleared"],
+      enum: [
+        "invoice",
+        "payment",
+        "check_return",
+        "check_cleared",
+        "invoice_deleted",
+      ],
       required: true,
     },
 
