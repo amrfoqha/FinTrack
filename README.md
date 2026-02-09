@@ -5,15 +5,14 @@
 
 ## 🖼️ Screenshots
 
-> **Note:** Place screenshots in the `screenshots/` folder.
 
 |                     Dashboard                      |                     Invoice                      |                 Customer Statement                 |
 | :------------------------------------------------: | :----------------------------------------------: | :------------------------------------------------: |
-| <img src="screenshots/dashboard.png" width="200"/> | <img src="screenshots/invoice.png" width="200"/> | <img src="screenshots/statement.png" width="200"/> |
+| <img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/invoice.png" width="250"/> | <img src="screenshots/statement.png" width="250"/> |
 
 |                     Payments                     |                     Checks                      |
 | :----------------------------------------------: | :---------------------------------------------: |
-| <img src="screenshots/payment.png" width="200"/> | <img src="screenshots/checks.png" width="200"/> |
+| <img src="screenshots/payment.png" width="250"/> | <img src="screenshots/checks.png" width="250"/> |
 
 ## 🚀 Features
 
@@ -102,15 +101,20 @@
 
 ```
 /client
+   /asset
    /components
+   /context
    /pages
-   /services
+   /routes
 /server
+   /config
+   /controllers
+   /middleware
    /models
    /routes
-   /controllers
    /services
    /utils
+   /validation
 ```
 
 ## 🗄️ Main Models
@@ -133,7 +137,7 @@
 ```bash
 cd server
 npm install
-npm run dev
+node server.js
 ```
 
 ### Frontend
@@ -149,7 +153,8 @@ npm start
 Create `.env` file inside `/server`:
 
 ```env
-MONGO_URI=your_mongodb_url
+ATLAS_USERNAME=xxxxxxxxxxx
+ATLAS_PASSWORD=xxxxxxxxxxx
 JWT_SECRET=your_secret_key
 PORT=5000
 ```
@@ -164,7 +169,7 @@ PORT=5000
 
 ## 🧑💻 Author
 
-**Developed by Your Name**
+**Amr Foqha**
 
 - Computer Engineering Graduate
 - Junior+ Backend Developer
@@ -183,18 +188,8 @@ This system reflects real accounting workflows:
 - ✅ Financial accuracy
 - ✅ Data integrity
 - ✅ Real-world usability
-
-## 📸 How to Add Screenshots
-
-1.  Create folder: `screenshots`
-2.  Add images:
-    - `dashboard.png`
-    - `invoice.png`
-    - `payment.png`
-    - `statement.png`
-    - `checks.png`
-
-GitHub will display them automatically.
+- ✅ Security 
+  
 
 ## ❤️ Support
 
