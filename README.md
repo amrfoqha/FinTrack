@@ -148,7 +148,7 @@ node server.js
 ```bash
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 ## ⚙️ Environment Variables
